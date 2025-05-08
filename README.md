@@ -7,9 +7,9 @@ The project demonstrates data preprocessing, model training, hyperparameter tuni
 
 ```
  Vehicle Silhouettes/
-    ├── vehicle.csv             # Dataset containing vehicle silhouette features and target class
-    ├── logreg.py               # Script for training Logistic Regression, hyperparameter tuning, and model evaluation
-    └── main.py                 # Main script for loading the trained model and making predictions on new vehicle data
+    ├── vehicle.csv      # Dataset containing vehicle silhouette features and target class
+    ├── logreg.py        # Script for training Logistic Regression, hyperparameter tuning, and model evaluation
+    └── main.py          # Main script for loading the trained model and making predictions on new vehicle data
 ```
 
 ## Overview
