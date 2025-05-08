@@ -81,23 +81,8 @@ pip install pandas numpy scikit-learn seaborn matplotlib
    ```
 
    This will:
-   - Scale new input data
-   - Use the best trained model to predict the vehicle type
+   - Scale the new input data
+   - Use the best-trained model to predict the vehicle type
    - Print the predicted class for each sample
 
-## Additional Notes
 
-- **Dataset Location:**  
-  Ensure that `vehicle.csv` is in the correct folder relative to the scripts. Adjust file paths in the code if necessary.
-
-- **Customization:**  
-  You can adjust the hyperparameter grid in `logreg.py` to suit different modeling needs. Feel free to experiment with different solvers and parameters.
-
-- **Troubleshooting:**  
-  In case of issues with scaling or encoding, double-check that the dataset matches the expected format as used in the scripts.
-
-## Contact
-
-For questions or contributions, please open an issue or submit a pull request.
-
-Happy coding!
