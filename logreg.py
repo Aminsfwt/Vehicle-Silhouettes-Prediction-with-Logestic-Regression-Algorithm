@@ -12,7 +12,7 @@ from sklearn.inspection import permutation_importance
 
 
 # Read the data
-data = pd.read_csv('E:/ML/Intro to Deep Learning/Labs/Codes/Applied ML/Vehicle Silhouettes/vehicle.csv')
+data = pd.read_csv('../Vehicle Silhouettes/vehicle.csv')
 
 #encode categorical variables
 le = LabelEncoder()
